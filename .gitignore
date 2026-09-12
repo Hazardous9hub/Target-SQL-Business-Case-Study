@@ -1,0 +1,11 @@
+# Datasets & large files
+*.csv
+*.xlsx
+*.zip
+*.twbx
+
+# Environment & OS
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
