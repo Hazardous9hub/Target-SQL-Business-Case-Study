@@ -4,12 +4,13 @@
 
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced_Queries-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-Business_Intelligence-00F2FE?style=for-the-badge)
+![Scaler DSML](https://img.shields.io/badge/Scaler_DSML-Fellowship_Project-FF4B4B?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-**An Enterprise SQL Business Case Study analyzing 99,000+ orders across 27 Brazilian states using Google BigQuery**
+**An Enterprise SQL Business Case Study analyzing 99,000+ orders across 27 Brazilian states using Google BigQuery**  
+*(Solved as part of Scaler Academy's Data Science & Machine Learning Fellowship Program)*
 
-[View Case Study PDF](reports/Shivaling-TARGET%20SQL%20Business%20Case.pdf) • [Live Portfolio](https://iamshivalingbattarki09.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/shivaling-93000/)
+[View Case Study PDF](reports/Shivaling-TARGET%20SQL%20Business%20Case.pdf) • [Dataset (8 CSVs)](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb) • [Live Portfolio](https://iamshivalingbattarki09.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/shivaling-93000/)
 
 </div>
 
